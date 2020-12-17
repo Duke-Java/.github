@@ -13,7 +13,7 @@ In Eclipse, ensure that you DO NOT have a project with the same name as this pro
    Change the location of the local repository if needed
    Finish
    
-Right clikc the Eclipse project
+Right click the Eclipse project
     Select Project Natures and Add Java
     Apply and Close
     
