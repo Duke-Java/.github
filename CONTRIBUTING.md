@@ -8,7 +8,7 @@ In Eclipse, ensure that you DO NOT have a project with the same name as this pro
    Select File -> Import
    Open Git, select Projects from Git (with smart import)
    Select Clone URI
-   Copy and paster URI from repository
+   Copy and paste URI from repository
    Select the branch
    Change the location of the local repository if needed
    Finish
